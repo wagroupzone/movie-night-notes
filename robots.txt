@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://movie-night-notes.vercel.app/sitemap.xml
